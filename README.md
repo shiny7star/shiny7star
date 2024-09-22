@@ -1,60 +1,138 @@
 
-<h1 align="center" style="display:none;"></h1>
+# 💫 About Me:
+I am a Python/Rust with 7 years and Blockchain developer with 5 years of experience.<br>With my experience in Blockchain/Web3, I am sure I am a perfect fit for blockchain jobs.<br>Here are some of my key skills and experience that I can offer:<br>- Experience in Rust/Solidity for blockchain smart contracts<br>- Experience in Rust/Python for backend and application<br>- Experience in smart contract development on ethereum, cosmos, polkadot<br>- Experience in DApps development using ether.js, cosmjs, web3.js<br>- Excellent communication and team spirit<br>I am passionate about blockchain and I am always looking for ways to improve my skills and stay up-to-date with the latest technologies. I am excited about the opportunity to work with your team and contribute to the success of your company.<br><br>Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+
+# 💻 Tech Stack:
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <br>WordPress
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
+      <br>Phoenix
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <br>Styled
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
+      <br>NFT
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
+      <br>DeFi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+  </tr>
+</table>
 
 
 
-
-### Hi, I'm Software Engineer
-
-- 📚 Passionate Learner: Diving deep into AI, both frontend and backend technologies,and constantly expanding my tech stack.
-
-- 💡 Future Goals: To continuously learn and innovate, bringing new ideas to life through technology.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
-### Contact with me 📝
-
-[<img align="center" height="48px" width="48" alt="linkedin" src="https://img.icons8.com/color/48/linkedin.png">Linkedin][linkedin]
-
-<br />
-
----
-
-### Languages and Tools 🛠 
-
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<br/>
-
-
-<img width="878" alt="צילום מסך 2020-10-25 ב-14 09 09" src="https://user-images.githubusercontent.com/38000606/97106909-02710480-16cd-11eb-9ad6-f5d64e03eb5a.png">
-
-
-
-[website]: https://racheliver.github.io
-[linkedin]: https://www.linkedin.com/in/racheli-verechzon-5343bb123/
-[Spotify]: https://open.spotify.com/user/31tnttfhh73nx44zimoaeofqyi6u
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
